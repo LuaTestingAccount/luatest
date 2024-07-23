@@ -1,6 +1,3 @@
-while do true
-  wait(5)
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
